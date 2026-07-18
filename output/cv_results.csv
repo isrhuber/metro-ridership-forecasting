@@ -1,0 +1,4 @@
+model,MAE,MAPE
+harmonic_ols,40790.7,12.2
+weekday_ma,51127.7,16.9
+seasonal_naive,71293.2,20.6
